@@ -1,0 +1,5 @@
+Bureau of Labor Statistics Project:
+
+How do various factors, such as gender, cost of living by location, and occupation type can impact your wages?
+
+We plan to pull data from the API from BLS on occupation type which will contain the average salary and median hourly wage by state. We then plan to pull gender data as well and compare with a secondary source for cost of living by location
